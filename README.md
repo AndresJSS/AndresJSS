@@ -12,7 +12,7 @@ Feel free to contact me by email and/or social media.
 
 * s.sanabria.andres@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/andres-sanchez-s/)
-* [Portfolio website](https://andresjss.github.io/AndresSanchezS.github.io/)
+* [Portfolio website]
 
 <!---
 AndresJSS/AndresJSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
