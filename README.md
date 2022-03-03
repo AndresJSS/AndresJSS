@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Andrés Sánchez - @AndresJSS
-- I'm from Costa Rica 🇨🇷
-- 👀 I’m interested in improving my skills and knowledge in Machine Learning & Data Analytics.
-- 🌱 I’m currently learning Azure AI & Data Analytics.
-- 💞️ I’m looking to collaborate on junior/entry level ML projects.
-- 📫 Feel free to contact me by email and/or social media.
+Hi there, I’m Andrés Sánchez and I'm from Costa Rica.
 
-- email: s.sanabria.andres@gmail.com
-- LinkedIn: andres-sanchez-s
+I have a bachelor degree in Biosystems Engineer and Machine Learning specialist.
+
+Looking to improve my skills and knowledge in Machine Learning, Cloud Computing & Data Analytics.
+
+I’m currently learning Azure AI Fundamentals & Google Data Analytics Professional Certificate.
+
+Available to collaborate on junior/entry level ML, data analysis projects.
+
+Feel free to contact me by email and/or social media.
+
+* s.sanabria.andres@gmail.com
+* [LinkedIn](https://www.linkedin.com/in/andres-sanchez-s/)
 
 <!---
 AndresJSS/AndresJSS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
